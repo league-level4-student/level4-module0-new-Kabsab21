@@ -3,7 +3,7 @@ package _01_Encapsulate_the_Data;
 public class EncapsulateTheData {
 
 	// 1. Encapsulate all the members.
-
+	
 	// 2. Implement the setter restrictions described above each member variable.
 
 	// 3. Pass all the JUnit tests.
