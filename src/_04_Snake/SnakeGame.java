@@ -22,11 +22,13 @@ public class SnakeGame implements ActionListener, KeyListener {
 	 * 
 	 * 1. Create a Location class with a x and y member variables encapsulated.
 	 * 
+	 * done
 	 * 2. Create an equals method in Location that takes in a Location and returns
 	 * true if the member variable x and y match the passed in Location's x and y.
-	 * 
-	 * 3. Create a Direction enum with UP, DOWN, LEFT, and RIGHT values.
-	 */
+	 * done 
+	 * 3. Create a Direction enum with UP, DOWN, LEFT, and RIGHT values.]
+	 * done
+	 */ 
 
 	public static final Color BORDER_COLOR = Color.WHITE;
 	public static final Color BACKGROUND_COLOR = Color.BLACK;
